@@ -2,9 +2,14 @@
   "name": "cmsjs",
   "version": "1.0.4",
   "description": "A node cms for use in an express application",
-  "main": "dist/lib/node/cms.js",
+
+  "main": "node/cms.js",
+
+  "files": ["dist/lib"],
+
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fix": "git add . && git commit -m 'fix' && npm version patch && npm publish"
   },
   "repository": {
     "type": "git",
