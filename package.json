@@ -1,6 +1,6 @@
 {
   "name": "cmsjs",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A node cms for use in an express application",
   "main": "dist/lib/node/cms.js",
   "scripts": {
