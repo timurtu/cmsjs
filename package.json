@@ -2,7 +2,7 @@
   "name": "cmsjs",
   "version": "1.0.2",
   "description": "A node cms for use in an express application",
-  "main": "cms.js",
+  "main": "dist/lib/node/cms.js",
   "files": [
     "dist/lib/node"
   ],
