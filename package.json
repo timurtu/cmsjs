@@ -2,9 +2,9 @@
   "name": "cmsjs",
   "version": "1.0.1",
   "description": "A node cms for use in an express application",
-  "main": "lib/cms.js",
+  "main": "cms.js",
   "files": [
-    "dist/lib"
+    "dist/lib/node"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
