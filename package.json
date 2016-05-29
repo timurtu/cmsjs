@@ -3,9 +3,6 @@
   "version": "1.0.3",
   "description": "A node cms for use in an express application",
   "main": "dist/lib/node/cms.js",
-  "files": [
-    "dist/lib/node"
-  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
