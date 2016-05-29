@@ -1,0 +1,25 @@
+{
+  "name": "cmsjs",
+  "version": "1.0.0",
+  "description": "A node cms for use in an express application",
+  "main": "cms",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timurtu/cmsjs.git"
+  },
+  "keywords": [
+    "cms",
+    "js",
+    "node",
+    "express"
+  ],
+  "author": "Timur Uzel <timurt.uzel@gmail.com> (https://github.com/timurtu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timurtu/cmsjs/issues"
+  },
+  "homepage": "https://github.com/timurtu/cmsjs#readme"
+}
