@@ -8,6 +8,7 @@
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dist/test/app/index.js",
     "fix": "git add . && git commit -m 'fix' && npm version patch && npm publish"
   },
   "repository": {
